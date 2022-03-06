@@ -14,7 +14,7 @@
 theme: jekyll-agency
 
 url    : "http://No1HGB.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/gunbam" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-theme-practice" # the subpath of your site, e.g. /blog
 
 title      : Gunbam Company
 email      : tkddnjs6717@naver.com #this is also the email contact forms will go to
