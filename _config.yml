@@ -18,7 +18,7 @@ baseurl: "/jekyll-theme-practice" # the subpath of your site, e.g. /blog
 
 title      : Gunbam Company
 email      : tkddnjs6717@naver.com #this is also the email contact forms will go to
-description: "군밤"
+description: "군밤의"
 author     : HGB
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
