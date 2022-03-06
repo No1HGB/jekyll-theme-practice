@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 자네가 혹시 군밤을 좋아한다면
+    text: 우리는 지금부터 친구일세
+    button: 뭐라고요?
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "군밤의 미학"
+    text: "사랑은 군밤처럼, 군밤이야말로 사랑이 아닐까?"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "뜨겁게 타오르다"
+        desc: "칼바람에 손가락이 떨어져나갈 것 같던 추운 겨울, 우리는 그렇게 만났다"
+        icon: fas fa-solid fa-fire-flame-curved #find more at https://fontawesome.com/icons
+      - title: "껍질을 내려놓다"
+        desc: "따뜻한 열풍에 너는 조용히 수줍었다. 딱딱한 껍질 속 소중하게 감춘"
+        icon: fas fa-solid fa-folder-open
+      - title: "담백하게 다가가다"
+        desc: "너는 서두르는 법이 없다. 항상 그 자리에 있는 듯 없는 듯"
+        icon: fab fa-regular fa-heart
 
   portfolio:
     title: "Portfolio"
@@ -37,12 +37,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
+  
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
@@ -68,16 +63,9 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+  
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+  
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
@@ -92,11 +80,7 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+  
     people:
       - name: "Kay Garland"
         role: "Lead Designer"
